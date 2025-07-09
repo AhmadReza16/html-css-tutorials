@@ -1,0 +1,10 @@
+body{
+    background-image: url(darknightrises.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+p{
+    color: rgb(1, 59, 11);
+}
